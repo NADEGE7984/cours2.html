@@ -1,0 +1,49 @@
+/*GENERAL*/
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+ }
+
+ul{
+    list-style: none;
+}
+
+
+
+/*HEADER*/
+
+header nav{
+    float: right;
+    margin-top: 15px;
+}
+
+header nav ul li{
+    display: inline-block;
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+header nav ul li a:hover{
+    color: #ff8c00;
+}
+
+main{
+    margin-top: 50px;
+    align-items: center;
+}
+main p{
+    
+    color: #8a2be2;
+}
+
+main a{
+color: brown;
+}
